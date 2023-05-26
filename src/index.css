@@ -8,6 +8,11 @@ body {
   
 }
 
+@font-face {
+  font-family: "montesorat";
+  src: url("./styles/montserrat/Montserrat-Regular.ttf");
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
